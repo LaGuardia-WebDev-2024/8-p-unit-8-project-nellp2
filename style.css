@@ -4,19 +4,19 @@
 }
 
 body {
-  background-color: aliceblue;
+  background-color: lavender;
   text-align: center;
-  color: navy;
+  color: purple;
   margin: auto;
   font-family: water;
 }
 
 h1{
-  font-size: 30px;
+  font-size: 60px;
 }
 
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
+  background-image: url("https://www.trafalgar.com/real-word/wp-content/uploads/sites/3/2016/06/OceanFacts_iStock_atese_www.istockphoto-1024x682.jpg");
   background-size: 600px 400px;
   border-radius: 300px;
   border: 5px solid white;
